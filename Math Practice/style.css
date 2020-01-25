@@ -1,0 +1,29 @@
+html{
+    height: 100%;
+    background:linear-gradient(dodgerblue,darkblue ) ;
+    color: navy;
+    font-size: 30px;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    text-align: center;
+}
+
+span{
+    color: lightblue;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
+form p{
+    color: midnightblue;
+    width: 50%;
+    float: left;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
+button{
+    width: 25%;
+    float: left;
+    font-size: 25px;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
+input{
+    font-size: 30px;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
